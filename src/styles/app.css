@@ -1,0 +1,8 @@
+.red{
+    content: red;
+    border: 1px solid red;
+}
+.green{
+    content: green;
+    border: 1px solid green;
+}
