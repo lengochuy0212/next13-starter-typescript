@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   description: 'Blog List',
 }
 
-export default function BlogLayout({
+export default function ViewDetailLayout({
   children,
 }: {
   children: React.ReactNode
